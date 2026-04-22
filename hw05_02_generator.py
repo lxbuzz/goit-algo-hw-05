@@ -23,9 +23,7 @@ def sum_profit(text: str, func: Callable[[str], Generator[float, None, None]]) -
     """
     return sum(func(text))
 
-'''
+
 # Тест з цілими та дробовими числами
 text = "Дохід 100 за вчора та 25.50 за сьогодні."
 print(f"Результат: {sum_profit(text, generator_numbers)}")  # 125.5?
-
-'''

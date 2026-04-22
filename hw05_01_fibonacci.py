@@ -27,7 +27,7 @@ def caching_fibonacci():
     return fibonacci
 
 
-'''
+
 # --- Приклад використання ---
 
 # Створюємо екземпляр функції з  кешем
@@ -39,4 +39,4 @@ print(f"Fibonacci(10): {fib(10)}")
 # Обчислюємо 15-те число Фібоначчі
 # cache
 print(f"Fibonacci(15): {fib(15)}")  
-'''
+
