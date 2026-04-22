@@ -45,7 +45,7 @@ python task_3.py /path/to/logfile.log [level]
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone [https://github.com/ваш-юзернейм/goit-algo-hw-05.git](https://github.com/ваш-юзернейм/goit-algo-hw-05.git)
+   git clone https://github.com/lxbuzz/goit-algo-hw-05.git
    cd goit-algo-hw-05
    ```
 
