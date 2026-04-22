@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb72c6b5-75d7-4f10-b41f-49597614f9e2" name="Changes" comment="First function in HW - Fibonacci with cache">
-      <change afterPath="$PROJECT_DIR$/hw05_02_generator.py" afterDir="false" />
+    <list default="true" id="eb72c6b5-75d7-4f10-b41f-49597614f9e2" name="Changes" comment="Third function in HW -Log Parser with Funtional Programming Styles">
+      <change afterPath="$PROJECT_DIR$/hw05_04_bot_wrapped.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.hw05_04_bot_wrapped.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -83,11 +84,29 @@
       <option name="project" value="LOCAL" />
       <updated>1776879562953</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Іцсщтв function in HW - Additive Iterator - Generator">
+      <option name="closed" value="true" />
+      <created>1776880400447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1776880400447</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Third function in HW -Log Parser with Funtional Programming Styles">
+      <option name="closed" value="true" />
+      <created>1776880679323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1776880679323</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First function in HW - Fibonacci with cache" />
-    <option name="LAST_COMMIT_MESSAGE" value="First function in HW - Fibonacci with cache" />
+    <MESSAGE value="Іцсщтв function in HW - Additive Iterator - Generator" />
+    <MESSAGE value="Third function in HW -Log Parser with Funtional Programming Styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third function in HW -Log Parser with Funtional Programming Styles" />
   </component>
 </project>
